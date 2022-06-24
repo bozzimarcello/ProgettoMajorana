@@ -1,5 +1,5 @@
 # Progetto per la Valutazione Formativa
-Repository base per gli allievi dell'ITIS Majorana di Grugliasco(TO). Viene fornita una struttura che copre le aree di progetto, documentazione e realizzazione.
+Repository base per i progetti degli allievi dell'ITIS Majorana di Grugliasco(TO). Viene fornita una struttura che copre le aree di pianificazione, documentazione e realizzazione.
 
 Lo scopo del progetto di valutazione formativa è coinvolgere gli allievi nella progettazione e realizzazione di un elaborato articolato, rendendoli consapevoli dei criteri di valutazione in modo che il percorso rappresenti una esperienza di apprendimento significativo.
 
